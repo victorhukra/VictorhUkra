@@ -45,6 +45,16 @@ Me chamo Victor Hugo Maximiano Fernandes, tenho 18 anos e sou natural do Paraná
 />
 
 
+ <img
+    align="left"
+    alt="JavaScript"
+    title="JavaScript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+  />
+</p>
+
 <img 
     align="left" 
     alt="Python" 
