@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Júnior`**
 
-Me chamo Victor Hugo Maximiano Fernandes, tenho 18 anos e sou natural do Paraná. Concluí o ensino médio no Colégio Estadual Miguel Dias. Atualmente, estou cursando Sistemas De Informação na UTFPR. Sou fascinado por tecnologia e busco, a cada dia, expandir meus conhecimentos.
+Me chamo Victor Hugo Maximiano Fernandes, tenho 19 anos e sou natural do Paraná. Concluí o ensino médio no Colégio Estadual Miguel Dias. Atualmente, estou cursando Sistemas De Informação na UTFPR. Sou fascinado por tecnologia e busco, a cada dia, expandir meus conhecimentos.
 
 <p align="left">
   <a href="https://github.com/victorhukra?tab=followers" title="Me siga no GitHub" target="_blank" rel="noopener noreferrer">
