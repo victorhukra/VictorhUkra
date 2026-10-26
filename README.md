@@ -64,4 +64,4 @@ Atualmente, tenho explorado principalmente o desenvolvimento de aplicações, pr
 
 Construir uma base sólida em desenvolvimento de software, aplicar os conhecimentos adquiridos na universidade em projetos práticos e evoluir continuamente como desenvolvedor.
 
-**Sempre aprendendo, desenvolvendo e evoluindo. 🚀**
+**Sempre aprendendo, desenvolvendo e evoluindo!**
