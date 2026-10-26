@@ -1,69 +1,71 @@
-# 👨🏻‍💻 Victor Hugo
+# 👨🏻‍💻 Victor Hugo Maximiano Fernandes
 
-**`Desenvolvedor Júnior`**
+### `Desenvolvedor Júnior | Estudante de Sistemas de Informação`
 
-Me chamo Victor Hugo Maximiano Fernandes, tenho 19 anos e sou natural do Paraná. Concluí o ensino médio no Colégio Estadual Miguel Dias. Atualmente, estou cursando Sistemas De Informação na UTFPR. Sou fascinado por tecnologia e busco, a cada dia, expandir meus conhecimentos.
+Olá! Me chamo **Victor Hugo Maximiano Fernandes**, tenho 19 anos, sou natural do Paraná e atualmente curso **Sistemas de Informação na Universidade Tecnológica Federal do Paraná (UTFPR)**.
 
-<p align="left">
-  <a href="https://github.com/victorhukra?tab=followers" title="Me siga no GitHub" target="_blank" rel="noopener noreferrer">
-    <img
-      alt="Seguidores no GitHub"
-      src="https://custom-icon-badges.demolab.com/github/followers/victorhukra?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-      style="vertical-align: middle; margin-right: 8px; height: 30px;"
-    />
-  </a>
-  <a href="https://www.instagram.com/victorhh._/" title="Me siga no Instagram" target="_blank" rel="noopener noreferrer">
-    <img
-      alt="Instagram"
-      src="https://custom-icon-badges.demolab.com/badge/Instagram-victorhh._-E4405F?logo=instagram&labelColor=E4405F&color=ffffff"
-      style="vertical-align: middle; height: 26px;"
-    />
-  </a>
-</p>
+Sou apaixonado por tecnologia e desenvolvimento de software. Estou sempre buscando aprender novas ferramentas, aprimorar minhas habilidades e desenvolver projetos que transformem conhecimento em soluções práticas.
 
-
+Atualmente, tenho explorado principalmente o desenvolvimento de aplicações, programação, bancos de dados e análise de dados, além de aprofundar meus conhecimentos em novas tecnologias.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🌐 Redes Sociais
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-
- <img
-    align="left"
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-  />
+<p align="left">
+  <a href="https://github.com/victorhukra" target="_blank">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+  <a href="https://www.instagram.com/victorhh._/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
 </p>
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+---
 
-<br/>
-<br/>
+### 🚀 Linguagens e Tecnologias
 
+#### 💻 Linguagens de Programação
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" alt="Java" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML5" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" alt="CSS3" title="CSS3"/>
+</p>
+
+#### 🌐 Desenvolvimento Web
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" alt="Flask" title="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" alt="MySQL" title="MySQL"/>
+</p>
+
+#### 📊 Ciência de Dados e Inteligência Artificial
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" alt="NumPy" title="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" alt="Pandas" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" alt="Scikit-learn" title="Scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="40" alt="OpenCV" title="OpenCV"/>
+</p>
+
+#### 🛠️ Ferramentas e Versionamento
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" alt="GitHub" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" alt="Visual Studio Code" title="Visual Studio Code"/>
+</p>
+
+---
+
+
+### 🎯 Objetivo
+
+Construir uma base sólida em desenvolvimento de software, aplicar os conhecimentos adquiridos na universidade em projetos práticos e evoluir continuamente como desenvolvedor.
+
+**Sempre aprendendo, desenvolvendo e evoluindo. 🚀**
